@@ -26,7 +26,7 @@ A través del panel visual interactivo, se resolvieron tres preguntas de negocio
 ## 🖼️ Visualización y Modelo de Datos
 
 ### 1. Modelo de Datos (Star Schema)
-![Vista del Modelo de Datos](C:\Users\FRANCIS\Documents\CURSO POWER BI\imagen_1.png)
+![Vista del Modelo de Datos](imagen_1.png)
 
 ### 2. Dashboard Analítico
-![Panel de Control Final](ruta_a_tu_imagen_del_dashboard.png)
+![Panel de Control Final](imagen_2.png)
