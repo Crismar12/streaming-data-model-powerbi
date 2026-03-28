@@ -1,7 +1,7 @@
 # 📊 Streaming Platforms Data Model & Analytics
 
 ## 🎯 Objetivo del Proyecto
-Análisis comparativo de catálogos de contenido (Netflix vs. Amazon Prime vs Disney+) enfocado en evaluar la diversidad de géneros, evolución histórica de producción y preferencias de formato por mercado.
+Análisis comparativo de catálogos de contenido (Netflix, Amazon Prime y Disney+) enfocado en evaluar la diversidad de géneros, evolución histórica de producción y preferencias de formato por mercado.
 
 ## 🛠️ Stack Tecnológico
 * **Herramienta principal:** Power BI
